@@ -1,1 +1,0 @@
-document.getElementById('heading').style.backgroundColor = "red";
