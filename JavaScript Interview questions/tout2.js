@@ -17,7 +17,7 @@
 
 // }
 
-// 1. scope of the variable 
+// 1. scope of the variable
 // 2. Redecalaration  and reassign
 // 3. Hoisting
 
@@ -62,4 +62,3 @@
 
 // console.log(b);
 // const b = 10;
-
